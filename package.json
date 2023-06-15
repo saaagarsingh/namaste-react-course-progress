@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saaagarsingh/namaste-react-course-progress.git"
+  },
+  "author": "Sagar Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saaagarsingh/namaste-react-course-progress/issues"
+  },
+  "homepage": "https://github.com/saaagarsingh/namaste-react-course-progress#readme"
+}
