@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/saaagarsingh/namaste-react-course-progress/issues"
   },
-  "homepage": "https://github.com/saaagarsingh/namaste-react-course-progress#readme"
+  "homepage": "https://github.com/saaagarsingh/namaste-react-course-progress#readme",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
 }
